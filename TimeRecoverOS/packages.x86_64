@@ -1,0 +1,8 @@
+base
+cloud-init
+linux
+mkinitcpio
+mkinitcpio-archiso
+openssh
+pv
+syslinux
